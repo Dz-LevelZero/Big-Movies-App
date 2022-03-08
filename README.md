@@ -1,3 +1,11 @@
+# Big Movies App
+![Big-Movies-App](https://i.imgur.com/u7vAmDx.png)
+
+A React movie App with beautiful design and functionalities. \
+All Thanks to [Tuat Tran Anh](https://www.youtube.com/watch?v=ntYXj9W1Ez8&list=PLjbFlVp0GV5X_CKAtShp9P6Ed2R_uRQ9p&index=4&t=274s) for his videos .
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

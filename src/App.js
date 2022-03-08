@@ -12,13 +12,9 @@ import AppRoutes from './config/AppRoutes';
 function App() {
   return (
     <BrowserRouter>
-      {/* <Route render={props => (
-        <> */}
-          <Header />
-          <AppRoutes/>
-          <Footer/>
-        {/* </>
-      )}/> */}
+      <Header />
+      <AppRoutes/>
+      <Footer/>
     </BrowserRouter>
   );
 }
