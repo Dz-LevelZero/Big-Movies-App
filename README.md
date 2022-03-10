@@ -1,4 +1,4 @@
-# Big Movies App
+# Big Movies  App
 ![Big-Movies-App](https://i.imgur.com/u7vAmDx.png)
 
 A React movie App with beautiful design and functionalities. \
@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In  the project directory, you can run:
 
 ### `npm start`
 
